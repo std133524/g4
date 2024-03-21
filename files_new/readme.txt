@@ -26,3 +26,7 @@ https://criticism.gr/o-eikastikos-elutis-kai-i-parousia-tou-sta-mesa/
 
 ARcore emulator
 https://www.youtube.com/watch?v=HHSaYnDUhm4
+
+ImageMagick command for gif animation:
+magick -delay 200 -loop 10 -dispose previous *.jpg iamanimating.gif
+
